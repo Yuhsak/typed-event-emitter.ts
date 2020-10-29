@@ -1,15 +1,15 @@
-# event-emitter.ts
+# typed-event-emitter.ts
 
 ## Install
 
 ```sh
-npm install event-emitter.ts
+npm install typed-event-emitter.ts
 ```
 
 ## Usage
 
 ```ts
-import {TypedEventEmitter} from 'event-emitter.ts'
+import {TypedEventEmitter} from 'typed-event-emitter.ts'
 
 type Event = {
   'update': [boolean]

@@ -1,6 +1,6 @@
 {
-  "name": "event-emitter.ts",
-  "version": "0.0.1",
+  "name": "typed-event-emitter.ts",
+  "version": "0.1.0",
   "description": "",
   "author": {
     "name": "Yuhsak Inoue",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yuhsak/event-emitter.ts.git"
+    "url": "https://github.com/Yuhsak/typed-event-emitter.ts.git"
   },
   "main": "lib/common/index.js",
   "module": "lib/esm/index.js",
