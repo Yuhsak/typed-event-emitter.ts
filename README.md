@@ -1,5 +1,7 @@
 # typed-event-emitter.ts
 
+Node.js EventEmitter which can be typed.
+
 ## Install
 
 ```sh
